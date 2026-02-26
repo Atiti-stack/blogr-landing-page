@@ -8,14 +8,14 @@
 
   /* Neutral */
   --white: hsl(0, 100%, 100%);
-  --gray-600: hsl(207, 13%, 34%);
-  --gray-900: hsl(240, 10%, 16%);
+  --gray-600: #4b5862;
+  --gray-900: rgb(37, 37, 45);
 
   /* Gradient - Intro / CTA / Mobile Nav */
   --orange-300: #ff8f70;
   --red-550: #ff3d54;
 
   /* Gradient - Body */
-  --purple-950: hsl(237, 17%, 21%);
+  --purple-950: #2c2d3f;
   --purple-900: hsl(237, 23%, 31%);
 }
